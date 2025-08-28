@@ -31,7 +31,6 @@ A ideia é simular um pipeline de dados em pequena escala: criar o modelo, popul
 └── README.md # Documentação do projeto
 ```
 
-<<<<<<< HEAD
 ---
 
 ## 🗄️ Modelagem de Dados
@@ -107,15 +106,10 @@ python scr/popular_tabelas.py
 ```bash
 python scr/extrair_dados.py
 ```
+---
 
 ## Aviso / Disclaimer
 
-Este projeto foi originalmente desenvolvido como parte de um curso da [DataEngineer.Help](DataEngineer.Help).
+Este projeto foi inicialmente desenvolvido como parte do curso da [DataEngineer.Help](DataEngineer.Help).
 Embora o projeto tenha sido feito com o acompanhamento das aulas, algumas adaptações e implementações adicionais foram feitas individualmente para fins de aprendizado e aprimoramento pessoal.
-=======
-![](/modelo-logico.png)
 
-## Modelo Físico
-
-![](/modelo_fisico.png)
->>>>>>> e82df33b69648b645516077021629064512d35dc
